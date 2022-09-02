@@ -1,0 +1,7 @@
+# Avoid project being littered with .DS_Store files
+.DS_Store
+
+*.zip
+log/*.log
+
+node_modules/
